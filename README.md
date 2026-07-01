@@ -46,28 +46,23 @@ Tools
 Project Structure
 
 AaraTech-Company-Website/
-│
-├── index.html
-├── about.html
-├── services.html
-├── industries.html
-├── portfolio.html
-├── careers.html
-├── blog.html
-├── contact.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│
-├── app.py
-├── robots.txt
-├── sitemap.xml
-└── README.md
+    index.html
+    about.html
+    services.html
+    industries.html
+    portfolio.html
+    careers.html
+    blog.html
+    ontact.html
+  css/
+    style.css
+  js/
+    script.js
+  images/
+  app.py
+  robots.txt
+  sitemap.xml
+  README.md
 
 How to Run the Project
 
